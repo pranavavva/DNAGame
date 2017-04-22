@@ -18,6 +18,8 @@ Licensed under MIT.
 
 ```
 .
+├── docs
+│   └── index.md
 ├── pom.xml
 ├── README.md
 └── src
@@ -33,7 +35,6 @@ Licensed under MIT.
             └── me
                 └── pavva
                     └── DNAGame
-                        └── AppTest.java
 
-11 directories, 5 files
+12 directories, 5 files
 ```
