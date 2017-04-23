@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/20avva/DNAGame.svg?style=svg)](https://circleci.com/gh/20avva/DNAGame)
+[![Build Status](https://travis-ci.org/20avva/DNAGame.svg?branch=master)](https://travis-ci.org/20avva/DNAGame)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # DNAGame
@@ -21,7 +23,13 @@ If you are simply playing the game, all you have to do is download the `.jar` fi
 
 Licensed under MIT.
 
+# Download
+
+<p><a href="DNAGame.zip" download>.zip</a></p>
+<p><a href="DNAGame.tar.gz" download>.tar.gz</a></p>
+
 # Project Tree
+```
 .
 ├── docs
 │   └── index.md
