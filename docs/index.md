@@ -11,12 +11,11 @@ You need Maven and the JDK to build files.
  
 If you are simply playing the game, all you have to do is download the `.jar` file (see below) and the JRE. When you do, follow the instructions below based on your system.
 
----|---|---
-Windows|MacOS|Linux
-Extract the downloaded `.zip`, and navigate to the `target` folder. Launch Command Prompt by pressing `Win + R` and typing in `cmd`. You might have to type `cd Downloads\DNAGame`
- Type in `java -jar DNAGame.jar`|Download and extract the `.zip` Open Terminal, and `cd` into the `Downloads/DNAGame` folder. Type `java -jar DNAGame.jar`|Download and extract the `.tar.gz` Open a
- Terminal and `cd` into the `Downloads/DNAGame` folder. Type in `java -jar DNAGame.jar`
----|---|---
+|-------|-----|-----|
+|Windows|MacOS|Linux|
+|-------|-----|-----|
+|Extract the downloaded `.zip`, and navigate to the `target` folder. Launch Command Prompt by pressing `Win + R` and typing in `cmd`. You might have to type `cd Downloads\DNAGame`. Type in `java -jar DNAGame.jar`|Download and extract the `.zip` Open Terminal, and `cd` into the `Downloads/DNAGame` folder. Type `java -jar DNAGame.jar`|Download and extract the `.tar.gz` Open a Terminal and `cd` into the `Downloads/DNAGame` folder. Type in `java -jar DNAGame.jar`|
+|-------|-----|-----|
 
 # Licensing
 
