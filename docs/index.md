@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
 [![CircleCI](https://circleci.com/gh/20avva/DNAGame.svg?style=svg)](https://circleci.com/gh/20avva/DNAGame)
 [![Build Status](https://travis-ci.org/20avva/DNAGame.svg?branch=master)](https://travis-ci.org/20avva/DNAGame)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -51,3 +55,19 @@ Licensed under MIT.
 
 12 directories, 5 files
 ```
+
+<div class="footer">
+    
+    <a href="http://pavva.me">
+        <button type="button" class="Button1">
+            Back To Home
+        </button>
+    </a>
+    
+    <a href="MavenDoc/index.html">
+        <button type="button" class="Button2">
+            MavenDoc
+        </button>
+    </a>
+    
+</div>
