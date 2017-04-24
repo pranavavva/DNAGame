@@ -20,8 +20,42 @@ Licensed under MIT.
 
 ```
 .
+├── _config.yml
 ├── docs
-│   └── index.md
+│   ├── _config.yml
+│   ├── DNAGame.tar.gz
+│   ├── DNAGame.zip
+│   ├── index.md
+│   ├── MavenDoc
+│   │   ├── css
+│   │   │   ├── maven-base.css
+│   │   │   ├── maven-theme.css
+│   │   │   ├── print.css
+│   │   │   └── site.css
+│   │   ├── dependencies.html
+│   │   ├── dependency-convergence.html
+│   │   ├── dependency-info.html
+│   │   ├── distribution-management.html
+│   │   ├── images
+│   │   │   ├── close.gif
+│   │   │   ├── collapsed.gif
+│   │   │   ├── expanded.gif
+│   │   │   ├── external.png
+│   │   │   ├── icon_error_sml.gif
+│   │   │   ├── icon_info_sml.gif
+│   │   │   ├── icon_success_sml.gif
+│   │   │   ├── icon_warning_sml.gif
+│   │   │   ├── logos
+│   │   │   │   ├── build-by-maven-black.png
+│   │   │   │   ├── build-by-maven-white.png
+│   │   │   │   └── maven-feather.png
+│   │   │   └── newwindow.png
+│   │   ├── index.html
+│   │   ├── plugin-management.html
+│   │   ├── plugins.html
+│   │   ├── project-info.html
+│   │   └── project-summary.html
+│   └── styles.css
 ├── pom.xml
 ├── README.md
 └── src
@@ -38,5 +72,5 @@ Licensed under MIT.
                 └── pavva
                     └── DNAGame
 
-12 directories, 5 files
+16 directories, 35 files
 ```
