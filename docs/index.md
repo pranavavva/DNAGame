@@ -31,7 +31,7 @@ Licensed under MIT.
 
 # Download
 
-<p><a href="DNAGame.zip" download>.zip</a></p>
+<p><a href="DNAGame.jar" download>.zip</a></p>
 <p><a href="DNAGame.tar.gz" download>.tar.gz</a></p>
 
 # Project Tree
