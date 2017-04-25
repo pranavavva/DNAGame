@@ -18,8 +18,10 @@ public class App {
         Question q8 = new Question("How many chromosomes do humans have?", "46", "23", "11", "5", 'A');
         Question q9 = new Question("How many pairs of chromosomes do humans have?", "46", "23", "11", "5", 'B');
         Question q10 = new Question("What passes on traits of parents to offspring?", "DNA", "Chromosomes", "RNA", "Gametes", 'A');
+        Question q11 = new Question("Do all organisms have the same amount of chromosomes?", "Yes", "No", "All of the above", "None of the above", 'B');
+        Question q12 = new Question("What fields has DNA been used in?", "Criminology", "Gene Therapy", "Finding lost people", "All of the above", 'D');
         
-        Question[] QuestionList = {q1, q2, q3, q4, q5, q6, q7, q8, q9, q10};
+        Question[] QuestionList = {q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12};
 
         Scanner sc = new Scanner(System.in);
         double score = 0.0;
@@ -47,11 +49,11 @@ public class App {
             }
         }
 
-        if (score > 0.9 * QuestionList.length) {
+        if (score >= 0.9 * QuestionList.length) {
 
             System.out.println("Wow! You scored a " + score / QuestionList.length + "/" + QuestionList.length + " !");
 
-        } else if (score < 0.9 * QuestionList.length && score > 0.5 * QuestionList.length) {
+        } else if (score < 0.9 * QuestionList.length && score >= 0.5 * QuestionList.length) {
 
             System.out.println("Not Bad! You scored a " + score + "/" + QuestionList.length + " !");
 
