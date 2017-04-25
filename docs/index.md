@@ -11,7 +11,7 @@
 A simple DNA game written in Java, built with Maven, testing with JUnit, using (soon) Travis CI and CircleCI to check.
  For an extra credit assignment in my biology class. <b>XD</b>
  
-<p style="font-size=20px">Also, just for the record, Shreyas copied my idea</p>
+<p style="font-size=40px">Also, just for the record, Shreyas copied my idea</p>
 
 # Instructions
 
