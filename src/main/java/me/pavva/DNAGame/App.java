@@ -57,7 +57,7 @@ public class App {
 
             System.out.println("Not Bad! You scored a " + score + "/" + QuestionList.length + " !");
 
-        } else if (score < 0.5 * QuestionList.length) {
+        } else if (score  < 0.5 * QuestionList.length) {
 
             System.out.println("You can do better than that! You scored a " + score / QuestionList.length + "/" + QuestionList.length + " !");
 
